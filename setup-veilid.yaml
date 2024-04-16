@@ -19,7 +19,7 @@ users:
       ssh_authorized_keys:
         # put the value of the ssh-key you want to use here
         # EXAMPLE:
-        - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINPak5uRr4Aa7GcgEuVq65tgP6QXkH/kVIYdB0hdqA+P
+        # - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINPak5uRr4Aa7GcgEuVq65tgP6QXkH/kVIYdB0hdqA+P
 
 # sets up veilid to run automatically
 runcmd:
