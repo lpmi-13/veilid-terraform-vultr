@@ -4,6 +4,10 @@ Details at https://veilid.com/
 
 As one of the less-known clouds, Vultr has some cheap instances in lots of different places worldwide. It's an easy way to run nodes that are outside of the usual zones (US/Europe), so this repo was set up to help you run some veilid nodes on Vultr!
 
+## Cost
+
+Vultr doesn't charge extra for IPv4 addresses, so we run these nodes dual-stack by default. The current configuration is about $5/month per node.
+
 ## Setup
 
 You'll need terraform to run this, and you can get the installation instructions [here](https://developer.hashicorp.com/terraform/install).
